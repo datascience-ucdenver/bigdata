@@ -1,0 +1,15 @@
+{
+  "name": "Assignment0: Causality and Expressions",
+  "endpoint": "UCDenver/CSCI4951-5951/fa21/assignment0",
+  "src": [
+    "Python_Refresher_Lectures.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}

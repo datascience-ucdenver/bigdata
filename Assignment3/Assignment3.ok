@@ -2,7 +2,7 @@
   "name": "Assignment3: Query and Analysis",
   "endpoint": "UCDenver/CSCI4951-5951/fa21/assignment3",
   "src": [
-    "Assignment2.ipynb"
+    "Assignment3.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

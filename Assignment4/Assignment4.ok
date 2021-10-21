@@ -1,0 +1,15 @@
+{
+  "name": "Assignment4: Data-Modeling",
+  "endpoint": "UCDenver/CSCI4951-5951/fa21/assignment4",
+  "src": [
+    "Assignment4.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}

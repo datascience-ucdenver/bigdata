@@ -1,8 +1,8 @@
 {
   "name": "Assignment8: Graph Processing with GraphLab",
-  "endpoint": "UCDenver/CSCI4951-5951/fa21/assignment7",
+  "endpoint": "UCDenver/CSCI4951-5951/fa21/assignment8",
   "src": [
-    "Assignment7.ipynb"
+    "Assignment8.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
